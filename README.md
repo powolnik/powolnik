@@ -9,7 +9,7 @@
 
 - 📫 You can email me on **wolnikradek@gmail.com**
 
-- 📄 You can find something about me on [my itch.io Profile](https://radoslawwolnik.itch.io/)
+- 📄 You can find something about me on [my itch.io Profile here](https://radoslawwolnik.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
