@@ -10,7 +10,7 @@
 - 📫 You can email me on **wolnikradek@gmail.com**
 
 - 📄 You can find something about me on [my itch.io Profile here](https://radoslawwolnik.itch.io/)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rwolnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwolnik" height="30" width="40" /></a>
