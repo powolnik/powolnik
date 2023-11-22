@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Unreal Engine Game programmer to be.</h3>
 
 - 🌱 I’m currently learning [C++ within Unreal Engine](https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/), and python to extend my workflow possibilities even more.
-
+ 
 - 👨‍💻 All of my projects are available at [Linktr.ee](linktr.ee/wolnikradek)
 
 - 📝 I regularly post on [my Linkedin Profile](linkedin.com/in/rwolnik/)
