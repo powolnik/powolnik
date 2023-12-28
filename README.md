@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Radosław Wolnik</h1>
-<h3 align="center">A passionate Unreal Engine Game programmer to be.</h3>
+<h1 align="center">Hi, I'm Radosław Wolnik</h1>
+<h3 align="center">C++/(UE)Blueprint Junior Game Programmer and python passionate</h3>
 
 - 🌱 I’m currently learning [C++ within Unreal Engine](https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/), and python to extend my workflow possibilities even more.
  
