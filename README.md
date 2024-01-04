@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rwolnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwolnik" height="30" width="40" /></a>
+ <a href="https://radoslawwolnik.itch.io/" target="blank"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243032/itch-io-icon-md.png" alt="rwolnik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@radosawwolnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@radosawwolnik" height="30" width="40" /></a>
 </p>
 
