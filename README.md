@@ -5,11 +5,11 @@
  
 - 👨‍💻 All of my projects are available at [Linktr.ee](linktr.ee/wolnikradek)
 
-- 📝 I regularly post on [my Linkedin Profile](linkedin.com/in/rwolnik/)
+- 📄 You can find something about me on [my itch.io Profile here](https://radoslawwolnik.itch.io/)
+
+- 📝 [my Linkedin Profile](linkedin.com/in/rwolnik/)
 
 - 📫 You can email me on **wolnikradek@gmail.com**
-
-- 📄 You can find something about me on [my itch.io Profile here](https://radoslawwolnik.itch.io/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
