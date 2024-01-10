@@ -5,7 +5,7 @@
  
 - 👨‍💻 All of my projects are available at [Linktr.ee](linktr.ee/wolnikradek)
 
-- 📄 You can find something about me on [my itch.io Profile here](https://radoslawwolnik.itch.io/)
+- 📄 You can find something about me on  [my itch.io Profile here](https://radoslawwolnik.itch.io/)
 
 - 📝 [my Linkedin Profile](linkedin.com/in/rwolnik/)
 
