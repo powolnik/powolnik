@@ -9,7 +9,7 @@
 
 - 📝 [my Linkedin Profile](linkedin.com/in/rwolnik/)
 
-- 📫 You can email me on **wolnikradek@gmail.com**
+- 📫 You can email me on **wolnikradek@gmail.com** 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
