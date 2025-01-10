@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, i'm Radosław Wolnik</h1> 
 <h3 align="center">C++/(UE)Blueprint Junior Game Programmer and python passionate</h3>
 
-- 🌱 I’m working on adding python to my [C++ and Unreal Engine](https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/)  skills, to extend my workflow possibilities even more with help of new AI discoveries. 
+- 🌱 I’m working on adding python to my [C++ and Unreal Engine] skills, to extend my workflow possibilities even more. 
  
 - 👨‍💻 All of my projects are available at [Linktr.ee](linktr.ee/wolnikradek)
 
