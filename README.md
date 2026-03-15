@@ -31,7 +31,7 @@ Currently focused on shipping polished UE5 projects and sharpening my AI-assiste
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=grey)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ Currently focused on shipping polished UE5 projects and sharpening my AI-assiste
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://powolnik.github.io/RWPortfo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rwolnik)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://radoslawwolnik.itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=grey)](https://radoslawwolnik.itch.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wolnikradek@gmail.com)
 
 ---
