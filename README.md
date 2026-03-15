@@ -1,31 +1,51 @@
-<h1 align="center"> Hi, i'm Radosław Wolnik</h1> 
-<h3 align="center">C++/(UE)Blueprint Junior Game Programmer and python passionate</h3>
-  
-- 🌱 I’m working on adding python to my [C++ and Unreal Engine] skills, to extend my workflow possibilities even more. 
-  
-- 👨‍💻 All of my projects are available at [Linktr.ee](linktr.ee/wolnikradek)
+# 👋 Hey, I'm Radek
 
-- 📄 You can find something about me on  [my itch.io Profile here](https://radoslawwolnik.itch.io/)
+**C++ / Unreal Engine 5 Game Programmer** · Kraków, Poland 🇵🇱
 
-- 📝 [my Linkedin Profile](linkedin.com/in/rwolnik/)
+I build games, tools, and automation scripts — mostly in C++ and Python.  
+Currently focused on shipping polished UE5 projects and sharpening my AI-assisted dev workflow.
 
-- 📫 You can email me on **wolnikradek@gmail.com** 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rwolnik" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwolnik" height="30" width="40" /></a>
- <a href="https://radoslawwolnik.itch.io/" target="blank"><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243032/itch-io-icon-md.png" alt="rwolnik" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@radosawwolnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@radosawwolnik" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/pl/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/pl/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="ID" width="40" height="40"/> </a>
-<a href="https://www.audiokinetic.com/en/products/wwise/" target="_blank" rel="noreferrer"> <img src="https://www.audiokinetic.com/images/branding/Wwise-Color-Bubble.png" alt="Wwise" width="40" height="40"/> </a>
-<p align="left"><a href="https://www.fmod.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d9/Fmod.svg/revision/latest/scale-to-width-down/300?cb=20170224163214" alt="Fmod" width="140" height="40"/> </a>
-<a href="https://www.reaper.fm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="reaper" width="40" height="40"/> </a>
-</p>
+## 🎮 What I Work On
+
+- **Unreal Engine 5 / C++** — Game systems, Gameplay Ability System (GAS), AI, multiplayer
+- **Python** — Bots, automation, local AI tooling
+- **Web** — Portfolio sites, band websites, small JS/HTML projects
+- **Kotlin** — Occasional Android experiments
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | About |
+|---|---|---|
+| [TheIsland_Game](https://github.com/powolnik/TheIsland_Game) | C++ / UE5 | RPG with full GAS, enemy AI, player systems |
+| [CryptRaide](https://github.com/powolnik/CryptRaide) | C++ / UE5 | Puzzle + collectible game |
+| [AiderScripting](https://github.com/powolnik/AiderScripting) | Python | Custom workflow toolkit built around Aider AI |
+| [local_audio_transcriber](https://github.com/powolnik/local_audio_transcriber) | Python | Offline audio-to-text transcription |
+| [WhatsAppBot](https://github.com/powolnik/WhatsAppBot) | Python | Messaging automation bot |
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+## 📬 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://powolnik.github.io/RWPortfo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rwolnik)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://radoslawwolnik.itch.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wolnikradek@gmail.com)
+
+---
+
+*Currently exploring: UE5 multiplayer systems · Steam integration · AI-assisted game dev pipelines*
