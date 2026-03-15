@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Radek
 
-**C++ / Unreal Engine 5 Game Programmer** · Kraków, Poland 🇵🇱
+**C++ / Unreal Engine 5 Game Programmer** · Oslo, Norway
 
 I build games, tools, and automation scripts — mostly in C++ and Python.  
 Currently focused on shipping polished UE5 projects and sharpening my AI-assisted dev workflow.
